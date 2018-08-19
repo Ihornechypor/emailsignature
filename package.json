@@ -1,0 +1,25 @@
+{
+  "name": "signatures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-inline-source": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "imagemin": "^6.0.0"
+  },
+  "description": "",
+  "dependencies": {
+    "inline-css": "^2.4.0"
+  }
+}
